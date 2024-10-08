@@ -1,2 +1,1 @@
-# FrontEnd-JavaScript-
-JavaScript Kurs (FrontEnd) 
+FrontEnd
